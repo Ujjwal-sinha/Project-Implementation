@@ -1,0 +1,13 @@
+prefix=/Users/ujjwalsinha/Desktop/udemy/RNN MODEL PROJECT/venv
+exec_prefix=/Users/ujjwalsinha/Desktop/udemy/RNN MODEL PROJECT/venv
+libdir=/Users/ujjwalsinha/Desktop/udemy/RNN MODEL PROJECT/venv/lib
+sharedlibdir=/Users/ujjwalsinha/Desktop/udemy/RNN MODEL PROJECT/venv/lib
+includedir=/Users/ujjwalsinha/Desktop/udemy/RNN MODEL PROJECT/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
