@@ -67,3 +67,4 @@ test-results/
 # Others
 *.sqlite3
 *.db
+venv/
